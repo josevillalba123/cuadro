@@ -1,0 +1,53 @@
+*
+{
+
+    margin:0px;
+
+}
+
+
+.uno
+{
+    background-color: bisque;
+    margin: 15px;
+    padding: 50px;
+    
+}
+.dos
+{
+    background-color: rgb(196, 255, 230);
+    margin: 15px;
+    padding: 50px;
+} 
+.tres
+{
+    background-color: rgb(200, 196, 255);
+    margin: 15px;
+    padding: 50px;
+} 
+.cuatro
+{
+    background-color: rgb(255, 196, 230);
+    margin: 15px;
+    padding: 50px;
+
+}
+.cinco
+{
+   
+    background-color: rgb(213, 255, 196);
+    margin: 15px;
+    padding: 50px;
+}
+.seis
+{
+    background-color: rgb(255, 228, 196);
+    margin: 15px;
+    padding: 50px;
+} 
+.siete
+{
+    background-color: rgb(205, 224, 30);
+    margin: 15px;
+    padding: 100px;
+} 
